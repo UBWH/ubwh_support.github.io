@@ -1,4 +1,4 @@
-![Tasmota Plus](assets/images/TasmotaPlus_small.png)
+![Tasmota Plus](assets/images/banner.png)
 # Tasmota-Plus
 [UBWH](https://ubwh.com.au) has developed an enhanced version of [Tasmota](https://tasmota.github.io/docs/ "Tasmota") with additional features making it better suited for use by IT professionals.
 
