@@ -1,4 +1,4 @@
-# Using the Ubiquiti airGateway Pro-Installer as a PoE Powered WiFi Access Point (AP)
+# The Ubiquiti airGateway Pro-Installer as a PoE Powered WiFi Access Point (AP)
 ![AGProIns Image](../images/AGproINS.png)
 
 The [airGateway Pro-Installer](https://ubwh.com.au/Ubiquiti/Accessories/AG-PRO-INS) can be easily configured as standard WiFi AP, making it suitable for applications that need:
