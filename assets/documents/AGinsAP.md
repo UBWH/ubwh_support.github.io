@@ -6,7 +6,7 @@ The [airGateway Pro-Installer](https://ubwh.com.au/Ubiquiti/Accessories/AG-PRO-I
 * PoE powered (24V PoE)
 
 ## Instructions
-1. Download the [config file](../AGinsAP.zip) to your laptop/tablet
+1. Download the [config file](https://github.com/UBWH/ubwh_support.github.io/raw/main/assets/AGinsAP.zip) to your laptop/tablet
 1. Unzip the downloaded file to extract the file `AGinsAP.cfg`
 1. Start with the unit in Factory Default mode
 1. Connect an ethernet cable between:
