@@ -6,7 +6,7 @@ The [airGateway Pro-Installer](https://ubwh.com.au/Ubiquiti/Accessories/AG-PRO-I
 * PoE powered (24V PoE)
 
 ## Instructions
-1. Download the [config file](assets/AGinsAP.cfg) to your laptop/tablet
+1. Download the [config file](../AGinsAP.cfg) to your laptop/tablet
 1. Start with the unit in Factory Default mode
 1. Connect an ethernet cable between:
    * A 24V PoE supply (Pins 4,5 (+DC)  7,8 (-DC)
